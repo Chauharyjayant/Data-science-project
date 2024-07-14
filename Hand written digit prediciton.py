@@ -1,6 +1,6 @@
 #Hand written Digit Prediciton_ classification analysis
 
-#Initiating project by importing the libraries which would be used in this project
+#Initiating project by importing the libraries which will be used in the project
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
